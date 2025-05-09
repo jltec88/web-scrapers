@@ -1,2 +1,4 @@
 output/
-*pdf
+*.pdf
+*.env
+*.html
